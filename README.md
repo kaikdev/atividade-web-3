@@ -1,4 +1,7 @@
 ## Atividade WEB III
+Atividade desenvolvida pelos seguintes alunos:
+- Kaik Silva Sousa
+- Julia Santos Bongiovani de Oliveira
 
 ## Acesse o Projeto Online
 
